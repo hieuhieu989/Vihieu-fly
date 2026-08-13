@@ -91,7 +91,7 @@ Logo.BorderSizePixel = 0
 Logo.Position = UDim2.new(0.5, 0, 0.5, 0)
 Logo.Size = UDim2.new(40, 0, 40, 0)
 Logo.ZIndex = 2
-Logo.Image = "http://www.roblox.com/asset/?id=131983967040060"
+Logo.Image = "http://www.roblox.com/asset/?id=1319839060"
 Logo.ScaleType = Enum.ScaleType.Fit
 Logo.Active = false
 
